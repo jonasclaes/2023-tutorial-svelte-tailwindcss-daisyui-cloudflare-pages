@@ -1,6 +1,6 @@
-# create-svelte
+# Tutorial Svelte, TailwindCSS, DaisyUI and Cloudflare Pages
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This project is a comprehensive example demonstrating how to set up a powerful web development stack using Svelte, SvelteKit, TailwindCSS, DaisyUI, and deploying it on Cloudflare Pages. The project is based on the tutorial found at https://jonasclaes.be/svelte-tailwindcss-daisyui-cloudflare-pages-a-comprehensive-tutorial-for-setup-and-deployment/.
 
 ## Creating a project
 
@@ -36,3 +36,7 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Learn More
+
+For a comprehensive walkthrough on setting up and deploying this project, please visit the tutorial: https://jonasclaes.be/svelte-tailwindcss-daisyui-cloudflare-pages-a-comprehensive-tutorial-for-setup-and-deployment/
